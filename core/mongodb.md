@@ -12,7 +12,7 @@ its [aggregation builder](https://www.doctrine-project.org/projects/doctrine-mon
 to leverage all the possibilities of the database.
 
 Doctrine MongoDB ODM 2 relies on the [mongodb](https://secure.php.net/manual/en/set.mongodb.php) PHP extension and not on
-the legacy [mongo](https://secure.php.net/manual/en/book.mongo.php) extension.
+the legacy mongo extension.
 
 ## Enabling MongoDB Support
 
